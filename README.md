@@ -1,4 +1,7 @@
 ### Christopher Kulle
+### Patrick Schneider
+### Paul Pristusek
+### Petar Turic
 
 # Content
 
