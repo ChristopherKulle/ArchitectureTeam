@@ -5,6 +5,6 @@
 ## More Content
 -Items
 
-##Team
+## Team
 -FirstName
 -LastName
