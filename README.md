@@ -1,4 +1,4 @@
-### Christopher Kulle
+
 ### Patrick Schneider
 
 # Content
